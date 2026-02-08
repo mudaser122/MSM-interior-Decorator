@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply font-sans antialiased text-mh-text bg-white selection:bg-mh-primary selection:text-white;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold text-mh-secondary;
+  }
+}
+
+.glass {
+  @apply bg-white/80 backdrop-blur-md border-b border-white/20;
+}
