@@ -7,7 +7,7 @@ const Gallery = () => {
   const projects = [
     {
       id: 1,
-      image: 'https://images.unsplash.com/photo-1512918580421-b2feee0b8384?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80',
+      image: 'https://www.pexels.com/photo/interior-design-of-living-room-20285350/',
       title: 'Modern Living Room Heating',
       category: 'Wood Stove'
     },
