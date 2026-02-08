@@ -19,7 +19,7 @@ const Gallery = () => {
     },
     {
       id: 3,
-      image: 'https://images.unsplash.com/photo-1584622050111-993a426fbf0a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80',
+      image: 'https://images.unsplash.com/photo-1745155541633-da6d9bb28f5c?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTB8fFRyYWRpdGlvbmFsJTIwTWFqbGlzJTIwU2V0dXB8ZW58MHx8MHx8fDA%3D',
       title: 'Traditional Majlis Setup',
       category: 'Interior'
     },
